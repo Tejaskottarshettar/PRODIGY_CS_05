@@ -1,0 +1,144 @@
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 20.189.173.16 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 239.255.255.250 | Protocol: 17
+[34mUDP Payload: Raw
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 239.255.255.250 | Protocol: 17
+[34mUDP Payload: Raw
+[40m[31mSource IP: 20.189.173.16 --> Destination IP: 192.168.75.88 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 239.255.255.250 | Protocol: 17
+[34mUDP Payload: Raw
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 239.255.255.250 | Protocol: 17
+[34mUDP Payload: Raw
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 185.40.232.170 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 185.40.232.170 --> Destination IP: 192.168.75.88 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 34.107.199.61 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 34.107.199.61 --> Destination IP: 192.168.75.88 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 130.211.8.39 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 130.211.8.39 --> Destination IP: 192.168.75.88 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 192.168.75.113 | Protocol: 17
+[34mUDP Payload: DNS Qry "b'chatgpt.com.'" 
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 192.168.75.113 | Protocol: 17
+[34mUDP Payload: DNS Qry "b'chatgpt.com.'" 
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 192.168.75.113 | Protocol: 17
+[34mUDP Payload: DNS Qry "b'chatgpt.com.'" 
+[40m[31mSource IP: 192.168.75.113 --> Destination IP: 192.168.75.88 | Protocol: 17
+[34mUDP Payload: DNS Ans "104.18.32.115" 
+[40m[31mSource IP: 192.168.75.113 --> Destination IP: 192.168.75.88 | Protocol: 17
+[34mUDP Payload: DNS Ans "2606:4700:83b3:ac57:ed40:42c:a5d5:4e6e" 
+[40m[31mSource IP: 192.168.75.113 --> Destination IP: 192.168.75.88 | Protocol: 17
+[34mUDP Payload: DNS Ans "b'\x00\x01\x00\x00\x01\x00\x06\x02h3\x02h2\x00\x06\x00\x10&\x06G\x00\x83\xb3\xacW\xed;\x04\xa2\xa5\xd5Nn'" 
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 192.168.75.113 | Protocol: 17
+[34mUDP Payload: DNS Qry "b'ab.chatgpt.com.'" 
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 192.168.75.113 | Protocol: 17
+[34mUDP Payload: DNS Qry "b'ab.chatgpt.com.'" 
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 192.168.75.113 | Protocol: 17
+[34mUDP Payload: DNS Qry "b'ab.chatgpt.com.'" 
+[40m[31mSource IP: 192.168.75.113 --> Destination IP: 192.168.75.88 | Protocol: 17
+[34mUDP Payload: DNS Ans "2606:4700:83b3:ac57:edfd:249:a5d5:4e6e" 
+[40m[31mSource IP: 192.168.75.113 --> Destination IP: 192.168.75.88 | Protocol: 17
+[34mUDP Payload: DNS Ans "b'\x00\x01\x00\x00\x01\x00\x06\x02h3\x02h2\x00\x06\x00\x10&\x06G\x00\x83\xb3\xacW\xed\xfe\x02I\xa5\xd5Nn'" 
+[40m[31mSource IP: 192.168.75.113 --> Destination IP: 192.168.75.88 | Protocol: 17
+[34mUDP Payload: DNS Ans "172.64.155.141" 
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 54.86.95.74 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 54.86.95.74 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 192.168.75.113 | Protocol: 17
+[34mUDP Payload: DNS Qry "b'datarouter.ol.epicgames.com.'" 
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 192.168.75.113 | Protocol: 17
+[34mUDP Payload: DNS Qry "b'datarouter.ol.epicgames.com.'" 
+[40m[31mSource IP: 192.168.75.113 --> Destination IP: 192.168.75.88 | Protocol: 17
+[34mUDP Payload: DNS Ans "b'datarouter-weighted.ol.epicgames.com.'" 
+[40m[31mSource IP: 192.168.75.113 --> Destination IP: 192.168.75.88 | Protocol: 17
+[34mUDP Payload: DNS Ans "b'datarouter-weighted.ol.epicgames.com.'" 
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 35.171.173.199 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 35.171.173.199 --> Destination IP: 192.168.75.88 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 35.171.173.199 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 35.171.173.199 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 35.171.173.199 --> Destination IP: 192.168.75.88 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 35.171.173.199 --> Destination IP: 192.168.75.88 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 35.171.173.199 --> Destination IP: 192.168.75.88 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 35.171.173.199 --> Destination IP: 192.168.75.88 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 35.171.173.199 --> Destination IP: 192.168.75.88 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 35.171.173.199 --> Destination IP: 192.168.75.88 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 35.171.173.199 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 35.171.173.199 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 35.171.173.199 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 35.171.173.199 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 192.168.75.113 | Protocol: 17
+[34mUDP Payload: DNS Qry "b'th.bing.com.'" 
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 192.168.75.113 | Protocol: 17
+[34mUDP Payload: DNS Qry "b'th.bing.com.'" 
+[40m[31mSource IP: 192.168.75.113 --> Destination IP: 192.168.75.88 | Protocol: 17
+[34mUDP Payload: DNS Ans "b'p-th.bing.com.trafficmanager.net.'" 
+[40m[31mSource IP: 192.168.75.113 --> Destination IP: 192.168.75.88 | Protocol: 17
+[34mUDP Payload: DNS Ans "b'p-th.bing.com.trafficmanager.net.'" 
+[40m[31mSource IP: 35.171.173.199 --> Destination IP: 192.168.75.88 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 35.171.173.199 --> Destination IP: 192.168.75.88 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 35.171.173.199 --> Destination IP: 192.168.75.88 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 35.171.173.199 --> Destination IP: 192.168.75.88 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 35.171.173.199 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 20.189.173.3 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 20.189.173.3 --> Destination IP: 192.168.75.88 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 20.189.173.3 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 20.189.173.3 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 20.189.173.3 --> Destination IP: 192.168.75.88 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 20.189.173.3 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 20.189.173.3 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 20.189.173.3 --> Destination IP: 192.168.75.88 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 20.189.173.3 --> Destination IP: 192.168.75.88 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 20.189.173.3 --> Destination IP: 192.168.75.88 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 20.189.173.3 --> Destination IP: 192.168.75.88 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 20.189.173.3 --> Destination IP: 192.168.75.88 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 20.189.173.3 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 20.189.173.3 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 20.189.173.3 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 20.189.173.3 --> Destination IP: 192.168.75.88 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 20.189.173.3 --> Destination IP: 192.168.75.88 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.75.88 --> Destination IP: 20.189.173.3 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 20.189.173.3 --> Destination IP: 192.168.75.88 | Protocol: 6
+[36mTCP Payload: Raw
